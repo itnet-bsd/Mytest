@@ -8,5 +8,5 @@ else
 	yesno="Doesn't exist"
 fi
 	echo "$yesno"
-	echo "$line, $yesno" >> /mnt/c/Users/itnet_bsd/Desktop/PhonesScannedOutput.txt
+	echo "$line, $yesno" >> output.output
 done
